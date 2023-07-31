@@ -1,0 +1,1 @@
+canHitPlayer = 0;

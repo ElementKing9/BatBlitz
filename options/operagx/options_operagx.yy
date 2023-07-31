@@ -1,0 +1,18 @@
+{
+  "resourceType": "GMOperaGXOptions",
+  "resourceVersion": "1.0",
+  "name": "operagx",
+  "option_operagx_display_cursor": true,
+  "option_operagx_editUrl": "https://dc.gxc.gg/home/games/game/af00b56a-540d-42f5-b4e4-a80ebef98869/edit",
+  "option_operagx_game_name": "Untitled Bat Shooter Game",
+  "option_operagx_guid": "af00b56a-540d-42f5-b4e4-a80ebef98869",
+  "option_operagx_internalShareUrl": "https://gxc.gg",
+  "option_operagx_interpolate_pixels": true,
+  "option_operagx_next_version": "0.0.0.12",
+  "option_operagx_publicShareUrl": "",
+  "option_operagx_scale": 0,
+  "option_operagx_team_id": "",
+  "option_operagx_team_name": "ElementKing studio",
+  "option_operagx_texture_page": "2048x2048",
+  "option_operagx_version": "0.0.0.11",
+}

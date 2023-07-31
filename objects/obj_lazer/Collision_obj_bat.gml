@@ -1,0 +1,1 @@
+ChangeHealth(other, -10)

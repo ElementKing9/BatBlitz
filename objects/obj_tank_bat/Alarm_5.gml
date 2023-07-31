@@ -1,0 +1,2 @@
+x+=randx; 
+y+=randy;
