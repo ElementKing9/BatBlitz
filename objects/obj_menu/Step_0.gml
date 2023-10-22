@@ -65,10 +65,12 @@ if select_key {
 			case 1: toggle_audio_mute(Music); break;
 			//Mute Sfx
 			case 2: toggle_audio_mute(SFX); break;
+			//Toggle FPS Counter
+			case 3: obj_system.fps_count = !obj_system.fps_count; break;
 			//Reset Data
-			case 3: menu_level = 2; break;
+			case 4: menu_level = 2; break;
 			//Back
-			case 4: menu_level = 0; break;
+			case 5: menu_level = 0; break;
 			}
 		break;
 		//Reset All Data

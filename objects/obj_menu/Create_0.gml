@@ -24,8 +24,9 @@ option[0, 6] = "Quit Game";
 option[1, 0] = "Fullscreen";
 option[1, 1] = "Toggle Music";
 option[1, 2] = "Toggle SFX";
-option[1, 3] = "Reset All Data";
-option[1, 4] = "Back";
+option[1, 3] = "Toggle FPS Counter";
+option[1, 4] = "Reset All Data";
+option[1, 5] = "Back";
 
 //Reset All Data CASE 2
 option[2, 0] = "Confirm";

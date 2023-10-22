@@ -57,7 +57,7 @@
   "isEcma": false,
   "LibraryEmitters": [],
   "MetaData": {
-    "IDEVersion": "2023.2.0.71",
+    "IDEVersion": "2023.8.2.108",
   },
   "resources": [
     {"id":{"name":"spr_ultimate","path":"sprites/spr_ultimate/spr_ultimate.yy",},},
@@ -180,6 +180,7 @@
     {"id":{"name":"spr_fireball","path":"sprites/spr_fireball/spr_fireball.yy",},},
     {"id":{"name":"snd_charge_reverse","path":"sounds/snd_charge_reverse/snd_charge_reverse.yy",},},
     {"id":{"name":"snd_explode","path":"sounds/snd_explode/snd_explode.yy",},},
+    {"id":{"name":"spr_god","path":"sprites/spr_god/spr_god.yy",},},
     {"id":{"name":"rousrDissonance_event_end_step","path":"scripts/rousrDissonance_event_end_step/rousrDissonance_event_end_step.yy",},},
     {"id":{"name":"snd_level_up","path":"sounds/snd_level_up/snd_level_up.yy",},},
     {"id":{"name":"spr_level_up","path":"sprites/spr_level_up/spr_level_up.yy",},},
@@ -281,6 +282,7 @@
     {"roomId":{"name":"rmPause","path":"rooms/rmPause/rmPause.yy",},},
     {"roomId":{"name":"rm_Credits","path":"rooms/rm_Credits/rm_Credits.yy",},},
   ],
+  "templateType": null,
   "TextureGroups": [
     {"resourceType":"GMTextureGroup","resourceVersion":"1.3","name":"Default","autocrop":true,"border":8,"compressFormat":"bz2","directory":"","groupParent":null,"isScaled":true,"loadType":"default","mipsToGenerate":0,"targets":-1,},
   ],

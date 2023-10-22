@@ -2,6 +2,7 @@
 ini_open("saveData.ini")
 musicGain = ini_read_real("Settings", "Music Gain", 1)
 SFXGain = ini_read_real("Settings", "SFX Gain", 1)
+fps_count = ini_read_real("Settings", "FPS", false)
 fullscreenFunc = ini_read_real("Settings", "Fullscreen", true)
 if fullscreenFunc {window_set_fullscreen(true)}
 

@@ -12,3 +12,9 @@ function MaxCombo()
 	obj_player.alarm[0] = 900;
 	
 }
+
+function PowerupGod()
+{
+	obj_player.godMode = true;
+	obj_player.alarm[3] = 300;
+}

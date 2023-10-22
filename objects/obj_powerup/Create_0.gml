@@ -14,3 +14,9 @@ if ValueInRange(rng,11,100)
 	sprite = spr_coin
 	powerupType = 1;
 }
+
+//if ValueInRange(rng,96,100)
+//{
+//	sprite = spr_god
+//	powerupType = 2;
+//}

@@ -25,7 +25,9 @@ playTimeSeconds = ini_read_real("Stats", "Play Time Seconds", true);
 playTimeSeconds = ini_read_real("Stats", "Play Time Seconds", true);
 playTimeSeconds = ini_read_real("Stats", "Play Time Seconds", true);
 
-ini_write_real("Stats", "Slime Coin", slimeCoin)
+ini_write_real("Stats", "Slime Coin", slimeCoin);
+
+ini_write_real("Settings", "FPS", fps_count);
 ini_close();
 
 
